@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NNOUU.GitHub.io</id>
+    <title>Gridea</title>
+    <updated>2020-03-08T05:27:14.720Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NNOUU.GitHub.io"/>
+    <link rel="self" href="https://NNOUU.GitHub.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://NNOUU.GitHub.io/images/avatar.png</logo>
+    <icon>https://NNOUU.GitHub.io/favicon.ico</icon>
+    <rights>All rights reserved 2020, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[第二篇博客]]></title>
+        <id>https://NNOUU.GitHub.io/post/di-er-pian-bo-ke/</id>
+        <link href="https://NNOUU.GitHub.io/post/di-er-pian-bo-ke/">
+        </link>
+        <updated>2020-03-08T05:26:36.000Z</updated>
+        <content type="html"><![CDATA[<p>这是第二篇博客，终于把这些乱七八糟的东西搞清楚了。过程中真的走了好多好多的弯路。<br>
+搭博客是由于<strong>StartZeyi</strong>的启发。过程中有很多即友的帮助<strong>杰克有茶</strong>，<strong>leadream</strong>，<strong>老伯德</strong>。终于把这个博客搭出来。这篇博客是用做记录的。我不知道我未来可能用这个博客做什么可能<s>用来ghs</s>发表一些自己的想法。最后再谢谢大家的帮助。</p>
+]]></content>
+    </entry>
+</feed>
