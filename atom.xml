@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://e.coding.net/nnouu/blog.git</id>
+    <id>https://github.com/NNOUU/NNOUU.GitHub.io.git</id>
     <title>NNOUU的博客</title>
-    <updated>2020-03-08T07:03:10.879Z</updated>
+    <updated>2020-03-08T07:07:17.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://e.coding.net/nnouu/blog.git"/>
-    <link rel="self" href="https://e.coding.net/nnouu/blog.git/atom.xml"/>
+    <link rel="alternate" href="https://github.com/NNOUU/NNOUU.GitHub.io.git"/>
+    <link rel="self" href="https://github.com/NNOUU/NNOUU.GitHub.io.git/atom.xml"/>
     <subtitle>欢迎来玩呀,谢谢大家的帮助，本站已建设完毕。更多信息请查看 关于</subtitle>
-    <logo>https://e.coding.net/nnouu/blog.git/images/avatar.png</logo>
-    <icon>https://e.coding.net/nnouu/blog.git/favicon.ico</icon>
+    <logo>https://github.com/NNOUU/NNOUU.GitHub.io.git/images/avatar.png</logo>
+    <icon>https://github.com/NNOUU/NNOUU.GitHub.io.git/favicon.ico</icon>
     <rights>All rights reserved 2020, NNOUU的博客</rights>
     <entry>
         <title type="html"><![CDATA[第二篇博客]]></title>
-        <id>https://e.coding.net/nnouu/blog.git/post/di-er-pian-bo-ke/</id>
-        <link href="https://e.coding.net/nnouu/blog.git/post/di-er-pian-bo-ke/">
+        <id>https://github.com/NNOUU/NNOUU.GitHub.io.git/post/di-er-pian-bo-ke/</id>
+        <link href="https://github.com/NNOUU/NNOUU.GitHub.io.git/post/di-er-pian-bo-ke/">
         </link>
         <updated>2020-03-08T05:26:36.000Z</updated>
         <content type="html"><![CDATA[<p>这是第二篇博客，终于把这些乱七八糟的东西搞清楚了。过程中真的走了好多好多的弯路。<br>
