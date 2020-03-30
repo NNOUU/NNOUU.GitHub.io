@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NNOUU.GitHub.io</id>
     <title>NNOUU的博客</title>
-    <updated>2020-03-30T05:42:25.591Z</updated>
+    <updated>2020-03-30T05:46:22.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NNOUU.GitHub.io"/>
     <link rel="self" href="https://NNOUU.GitHub.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://NNOUU.GitHub.io/images/avatar.png</logo>
     <icon>https://NNOUU.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NNOUU的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[说实话]]></title>
+        <id>https://NNOUU.GitHub.io/post/shuo-shi-hua/</id>
+        <link href="https://NNOUU.GitHub.io/post/shuo-shi-hua/">
+        </link>
+        <updated>2020-03-30T05:42:36.000Z</updated>
+        <content type="html"><![CDATA[<p>说实话，这个年代还不支持中文的平台简直就是对中国用户的歧视。<br>
+notion，说的就是你，简直傻到头了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于即刻的一些想法 ]]></title>
         <id>https://NNOUU.GitHub.io/post/guan-yu-ji-ke-de-yi-xie-xiang-fa/</id>
