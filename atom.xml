@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NNOUU.GitHub.io</id>
     <title>NNOUU的博客</title>
-    <updated>2020-03-28T13:47:24.540Z</updated>
+    <updated>2020-03-30T05:42:25.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NNOUU.GitHub.io"/>
     <link rel="self" href="https://NNOUU.GitHub.io/atom.xml"/>
@@ -99,7 +99,10 @@ PingPal是个喜欢交朋友，喜欢听大家的想法和建议的App~]</p>
         <link href="https://NNOUU.GitHub.io/post/qu-ta-ya-de-markdown/">
         </link>
         <updated>2020-03-20T01:01:52.000Z</updated>
-        <content type="html"><![CDATA[<p><strong>Markdown</strong>作为一种排版/语法工具来说，的确是非常高效的，但是在语法学习和书写上非常的傻，不是因为难学，仅仅是因为很多的编辑器虽然支持<em>MD</em>的书写，但很少有支持辅助书写语法的编辑器，很多时候要是记不住语法，全部白费。这里放一个语法教学，虽然我学了好久，<s>但还是不能保证全部记住</s>，而且像引用这样的语法，非常考验排版技术。<a href="https://www.jianshu.com/p/191d1e21f7ed">简书</a></p>
+        <content type="html"><![CDATA[<p>3.30日更新<br>
+好吧，我错了，Markdown真的超好用，除了很多编辑器不能完整使用以外，Markdown简直无敌。</p>
+<hr>
+<p><strong>Markdown</strong>作为一种排版/语法工具来说，的确是非常高效的，但是在语法学习和书写上非常的傻，不是因为难学，仅仅是因为很多的编辑器虽然支持<em>MD</em>的书写，但很少有支持辅助书写语法的编辑器，很多时候要是记不住语法，全部白费。这里放一个语法教学，虽然我学了好久，<s>但还是不能保证全部记住</s>，而且像引用这样的语法，非常考验排版技术。<a href="https://www.jianshu.com/p/191d1e21f7ed">简书</a></p>
 ]]></content>
     </entry>
     <entry>
