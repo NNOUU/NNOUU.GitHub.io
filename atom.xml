@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NNOUU.GitHub.io</id>
     <title>NNOUU的博客</title>
-    <updated>2020-07-17T16:03:04.332Z</updated>
+    <updated>2020-08-18T12:58:33.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NNOUU.GitHub.io"/>
     <link rel="self" href="https://NNOUU.GitHub.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://NNOUU.GitHub.io/images/avatar.png</logo>
     <icon>https://NNOUU.GitHub.io/favicon.ico</icon>
     <rights>All rights reserved 2020, NNOUU的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[音乐老师]]></title>
+        <id>https://NNOUU.GitHub.io/post/yin-le-lao-shi/</id>
+        <link href="https://NNOUU.GitHub.io/post/yin-le-lao-shi/">
+        </link>
+        <updated>2020-08-18T12:12:30.000Z</updated>
+        <content type="html"><![CDATA[<p>最近在逛街时突然遇到了我初中的音乐老师，非常惊喜。初中的音乐老师是从中央音乐学院毕业的，就因为这一点，让全校师生都十分尊敬。**不过他总是秉持着一种“吾随吾心乃吾幸”的性格（？）上课很是随心所欲，几乎从来不讲课本上的内容，总是拿着自己的大学课本来给我们上课。时不时放几首古典音乐来给我们欣赏，高兴了就弹一两首曲子。**虽然不按套路上课，但我至今还是非常感谢他，因为我至今为止所有的乐理尝试，音乐品味，几乎都离不开他 。不过初中的音乐老师大概就是我这一生中最后一个音乐老师了。我们高中是没有什么艺术课的，虽说我们学校的艺术班每年成绩都十分理想，但普通班是缺乏艺术课的。反观隔壁霓虹国，从小学起就有比较完善的美学教育（这里指的美学包括了绘画、音乐、审美......）总之日本学生对于美学的理解是高于中国学生的。问一个普通的日本高校生（日本高校即高中）什么是日本的美学，大概率会回答“<a href="https://baike.baidu.com/item/%E6%9E%AF%E5%B1%B1%E6%B0%B4/888889?fr=aladdin">枯山水</a>”之类的。<br>
+而你问一个中国学生什么是中国的美学，可能他脑子里会闪过很多画面，但却很难表达出来，这其实是美学教育的缺失，中国不缺少美学，就是缺乏系统的教育。（上述内容可能具有偶然性，但内容基本是我和某位日本同龄人在LINE上的交流结果）中国的美学教育基本到了初中就完结了，就像中国的体育课一样，只是为了一个指标的话，实际上没什么用，高考不考体育，体育课也没什么用了。<br>
+这大概就是为什么日本会出那么多音乐大师和艺术大师的缘故吧。中国搞这两样的人多，但nb的很少。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HTML]]></title>
         <id>https://NNOUU.GitHub.io/post/html/</id>
@@ -163,16 +174,6 @@ PingPal是个喜欢交朋友，喜欢听大家的想法和建议的App~]</p>
         </link>
         <updated>2020-03-09T03:18:14.000Z</updated>
         <content type="html"><![CDATA[<p>放一张图试一试，测试图床怎么样<img src="https://NNOUU.GitHub.io/post-images/1583723940509.jpg" alt="" loading="lazy">如果速度太慢，就算了，再考虑考虑七牛云的图床吧，GitHub的图床反应速度应该不快。</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[第二篇博客]]></title>
-        <id>https://NNOUU.GitHub.io/post/di-er-pian-bo-ke/</id>
-        <link href="https://NNOUU.GitHub.io/post/di-er-pian-bo-ke/">
-        </link>
-        <updated>2020-03-08T05:26:36.000Z</updated>
-        <content type="html"><![CDATA[<p>这是第二篇博客，终于把这些乱七八糟的东西搞清楚了。过程中真的走了好多好多的弯路。<br>
-搭博客是由于<strong>StartZeyi</strong>的启发。过程中有很多即友的帮助<strong>杰克有茶</strong>，<strong>leadream</strong>，<strong>老伯德</strong>。终于把这个博客搭出来。这篇博客是用做记录的。我不知道我未来可能用这个博客做什么可能<s>用来ghs</s>发表一些自己的想法。最后再谢谢大家的帮助。</p>
 ]]></content>
     </entry>
 </feed>
