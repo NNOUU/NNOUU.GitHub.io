@@ -2,14 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://NNOUU.GitHub.io</id>
     <title>NNOUU的博客</title>
-    <updated>2020-08-18T12:58:33.806Z</updated>
+    <updated>2021-02-24T13:28:31.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://NNOUU.GitHub.io"/>
     <link rel="self" href="https://NNOUU.GitHub.io/atom.xml"/>
     <subtitle>欢迎来玩呀,谢谢大家的帮助，本站已建设完毕。更多信息请查看 关于</subtitle>
     <logo>https://NNOUU.GitHub.io/images/avatar.png</logo>
     <icon>https://NNOUU.GitHub.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, NNOUU的博客</rights>
+    <rights>All rights reserved 2021, NNOUU的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[域名过期]]></title>
+        <id>https://NNOUU.GitHub.io/post/yu-ming-guo-qi/</id>
+        <link href="https://NNOUU.GitHub.io/post/yu-ming-guo-qi/">
+        </link>
+        <updated>2021-02-24T13:23:08.000Z</updated>
+        <content type="html"><![CDATA[<p>好家伙，原来的域名过期了，我傻了</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[音乐老师]]></title>
         <id>https://NNOUU.GitHub.io/post/yin-le-lao-shi/</id>
@@ -165,15 +174,6 @@ PingPal是个喜欢交朋友，喜欢听大家的想法和建议的App~]</p>
 好吧，我错了，Markdown真的超好用，除了很多编辑器不能完整使用以外，Markdown简直无敌。</p>
 <hr>
 <p><strong>Markdown</strong>作为一种排版/语法工具来说，的确是非常高效的，但是在语法学习和书写上非常的傻，不是因为难学，仅仅是因为很多的编辑器虽然支持<em>MD</em>的书写，但很少有支持辅助书写语法的编辑器，很多时候要是记不住语法，全部白费。这里放一个语法教学，虽然我学了好久，<s>但还是不能保证全部记住</s>，而且像引用这样的语法，非常考验排版技术。<a href="https://www.jianshu.com/p/191d1e21f7ed">简书</a></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEST图片]]></title>
-        <id>https://NNOUU.GitHub.io/post/test-tu-pian/</id>
-        <link href="https://NNOUU.GitHub.io/post/test-tu-pian/">
-        </link>
-        <updated>2020-03-09T03:18:14.000Z</updated>
-        <content type="html"><![CDATA[<p>放一张图试一试，测试图床怎么样<img src="https://NNOUU.GitHub.io/post-images/1583723940509.jpg" alt="" loading="lazy">如果速度太慢，就算了，再考虑考虑七牛云的图床吧，GitHub的图床反应速度应该不快。</p>
 ]]></content>
     </entry>
 </feed>
